@@ -1,6 +1,0 @@
-name: myenv
-channels:
-  - defaults
-dependencies:
-  - python=3.10
-  - customtkinter=5.1.2
